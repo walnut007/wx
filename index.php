@@ -13,7 +13,7 @@
 	<div align="center">
 		<form action="login.php" method="post" data-ajax="false">
 			<div id="main" class="main" align="center">
-				<h2>在线报修系统--登录</h2>
+				<h2>在线报修系统--登录hello world！</h2>
 				<table align="center" >
 					<tr>
 					<th align="right">姓名：</th><th><input type="text" name="userName" /></th>
