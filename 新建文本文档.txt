@@ -1,0 +1,24 @@
+update student set judge[1]='错' where num_student=2010 and num_subject=1 and num_unit=1
+
+	1	id	int(11)			否	无			 修改 修改	 删除 删除	
+主键 主键
+唯一 唯一
+索引 索引
+空间 空间
+全文搜索 全文搜索
+非重复值 (DISTINCT) 非重复值 (DISTINCT)
+	2	major	varchar(20)	utf8_general_ci		否	无			 修改 修改	 删除 删除	
+主键 主键
+唯一 唯一
+索引 索引
+空间 空间
+全文搜索 全文搜索
+非重复值 (DISTINCT) 非重复值 (DISTINCT)
+	3	number	varchar(20)	utf8_general_ci		否	无			 修改 修改	 删除 删除	
+主键 主键
+唯一 唯一
+索引 索引
+空间 空间
+全文搜索 全文搜索
+非重复值 (DISTINCT) 非重复值 (DISTINCT)
+	4	name	varchar(20)	utf8_general_ci		否	无		
